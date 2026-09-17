@@ -8,4 +8,4 @@ Refer to [Enigma3 Architecture.pdf](Enigma3%20Architecture.pdf) for the full des
 
 ## Code
 Some code has been written but is incomplete and has not been tested yet.
-Refer to https://github.com/xcentaurix/enigma2/tree/enigma3-compositor-split
+Refer to https://github.com/xcentaurix/enigma2/tree/enigma3-compositor-split/lib
